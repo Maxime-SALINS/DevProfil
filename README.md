@@ -76,7 +76,8 @@ la même `FicheProfil` affiche deux profils différents (textes, compétences, d
 
 ## Capture d'écran
 
-![Preview du profil](screenshots/preview.png)
+![Preview du profil](/preview1.png)
+![Preview du profil](/preview2.png)
 
 ## Lien du dépôt
 
